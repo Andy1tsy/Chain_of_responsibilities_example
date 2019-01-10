@@ -1,0 +1,10 @@
+C:\Users\Я\source\repos\ChainOfResponsibilitiesWorkers\ChainOfResponsibilitiesWorkers\bin\Debug\ChainOfResponsibilitiesWorkers.exe.config
+C:\Users\Я\source\repos\ChainOfResponsibilitiesWorkers\ChainOfResponsibilitiesWorkers\bin\Debug\ChainOfResponsibilitiesWorkers.exe
+C:\Users\Я\source\repos\ChainOfResponsibilitiesWorkers\ChainOfResponsibilitiesWorkers\bin\Debug\ChainOfResponsibilitiesWorkers.pdb
+C:\Users\Я\source\repos\ChainOfResponsibilitiesWorkers\ChainOfResponsibilitiesWorkers\obj\Debug\ChainOfResponsibilitiesWorkers.csprojAssemblyReference.cache
+C:\Users\Я\source\repos\ChainOfResponsibilitiesWorkers\ChainOfResponsibilitiesWorkers\obj\Debug\ChainOfResponsibilitiesWorkers.Form1.resources
+C:\Users\Я\source\repos\ChainOfResponsibilitiesWorkers\ChainOfResponsibilitiesWorkers\obj\Debug\ChainOfResponsibilitiesWorkers.Properties.Resources.resources
+C:\Users\Я\source\repos\ChainOfResponsibilitiesWorkers\ChainOfResponsibilitiesWorkers\obj\Debug\ChainOfResponsibilitiesWorkers.csproj.GenerateResource.cache
+C:\Users\Я\source\repos\ChainOfResponsibilitiesWorkers\ChainOfResponsibilitiesWorkers\obj\Debug\ChainOfResponsibilitiesWorkers.csproj.CoreCompileInputs.cache
+C:\Users\Я\source\repos\ChainOfResponsibilitiesWorkers\ChainOfResponsibilitiesWorkers\obj\Debug\ChainOfResponsibilitiesWorkers.exe
+C:\Users\Я\source\repos\ChainOfResponsibilitiesWorkers\ChainOfResponsibilitiesWorkers\obj\Debug\ChainOfResponsibilitiesWorkers.pdb
